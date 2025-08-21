@@ -52,13 +52,13 @@ The dataset used in this analysis is WA_Fn-UseC_-Telco-Customer-Churn.csv. It co
 
 ## Technologies Used
 
-*   pandas: For data manipulation and analysis.
-*   numpy: For numerical operations.
-*   matplotlib: For creating visualizations.
-*   seaborn: For statistical data visualization based on matplotlib.
-*   scipy: For scientific and technical computing, specifically for the chi-squared test.
-*   sklearn: For machine learning model selection, preprocessing (OneHotEncoder, StandardScaler), model training (SVC, XGBClassifier, DecisionTreeClassifier, LogisticRegression, KNeighborsClassifier, RandomForestClassifier), model evaluation (accuracy_score, classification_report, ConfusionMatrixDisplay, precision_score, recall_score, f1_score, roc_curve, auc), and model selection utilities (train_test_split, cross_val_score, GridSearchCV).
-*   imblearn: For handling imbalanced datasets, specifically using RandomOverSampler.
+*   **pandas:** For data manipulation and analysis.
+*   **numpy:** For numerical operations.
+*   **matplotlib:** For creating visualizations.
+*   **seaborn:** For statistical data visualization based on matplotlib.
+*   **scipy:** For scientific and technical computing, specifically for the chi-squared test.
+*   **sklearn:** For machine learning model selection, preprocessing (OneHotEncoder, StandardScaler), model training (SVC, XGBClassifier, DecisionTreeClassifier, LogisticRegression, KNeighborsClassifier, RandomForestClassifier), model evaluation (accuracy_score, classification_report, ConfusionMatrixDisplay, precision_score, recall_score, f1_score, roc_curve, auc), and model selection utilities (train_test_split, cross_val_score, GridSearchCV).
+*   **imblearn:** For handling imbalanced datasets, specifically using RandomOverSampler.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
